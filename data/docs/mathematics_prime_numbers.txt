@@ -1,0 +1,2 @@
+The Mystery of Prime Numbers
+A prime number is a whole number greater than one that has no divisors other than one and itself. Primes seem to appear irregularly along the number line, yet mathematicians have found deep patterns connecting them to nearly every other branch of mathematics, from cryptography to the study of pure numbers.

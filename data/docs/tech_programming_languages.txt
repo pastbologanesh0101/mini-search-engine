@@ -1,0 +1,2 @@
+Why Programming Languages Differ
+Programming languages trade off readability, performance, and safety in different ways. A language like Python favors clear syntax and fast development, while a language like C gives programmers close control over memory at the cost of extra responsibility. Modern languages often borrow good ideas from both.

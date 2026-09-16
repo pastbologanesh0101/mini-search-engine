@@ -1,0 +1,2 @@
+How Search Engines Rank Pages
+A search engine first builds an index that maps words to the documents containing them, similar to the index at the back of a textbook. When a user submits a query, the engine looks up the matching documents and ranks them using signals like term frequency, relevance, and how often other pages link to them.

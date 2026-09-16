@@ -1,0 +1,2 @@
+A Gentle Introduction to Artificial Intelligence
+Artificial intelligence describes computer systems that perform tasks normally requiring human judgment, such as recognizing images or translating language. Many modern AI systems learn patterns from large amounts of example data rather than following rules written by hand. This learning process is called training.

@@ -1,0 +1,2 @@
+The Physics of Cycling
+A cyclist's speed depends on the balance between the power they produce and the resistance from air drag, rolling friction, and gravity on hills. Aerodynamic drag grows quickly at higher speeds, which is why professional cyclists often ride in tight groups called a peloton to shelter each other from the wind.

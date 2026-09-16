@@ -1,0 +1,2 @@
+Strategy in Chess
+Chess rewards players who control the center of the board and develop their pieces efficiently in the opening. A strong player balances short-term tactics, like winning material, against long-term positional advantages, such as pawn structure and king safety. Endgames often come down to pawn promotion races.

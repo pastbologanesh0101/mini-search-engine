@@ -1,0 +1,2 @@
+The Building Blocks of Robotics
+A robot generally combines sensors to perceive its surroundings, actuators to move and act, and a controller that decides what to do next. Simple robots follow fixed instructions, while more advanced ones adjust their behavior based on feedback from sensors in real time, allowing them to handle unpredictable environments.
